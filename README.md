@@ -16,5 +16,9 @@ This is a simple web project, deployment can be on any server or even local file
 
 ## How To Contribute
 
+## Copyright
+
+2014 Git.Training.
+
 ## Purpose
 
